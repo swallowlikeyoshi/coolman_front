@@ -1,0 +1,22 @@
+.conversation {
+    width: 500px;
+    height: 500px;
+    border: 1px black solid;
+    margin: 10px;
+}
+
+.question {
+    width: 80%;
+    height: 30%;
+    border: 1px black solid;
+    margin: 10px;
+    overflow: hidden;
+}
+
+.answer {
+    width: 80%;
+    height: 30%;
+    border: 1px black solid;
+    margin: 10px;
+    overflow: hidden;
+}

@@ -1,3 +1,5 @@
-# https://www.robotstxt.org/robotstxt.html
+
+# 누군가는 너를 사랑하고 있다
+
 User-agent: *
 Disallow:
